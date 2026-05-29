@@ -2,11 +2,11 @@
 
 # Md Rubyat Islam
 
-### AI-Augmented Laravel Engineer · Senior Backend & Full-Stack Developer
+[![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=AI-Augmented+Laravel+Engineer;Senior+Backend+%26+Full-Stack+Developer;10%2B+Years+Shipping+Production+SaaS+%26+APIs)](https://rubyat.info)
 
-**I turn complex business workflows into reliable, maintainable Laravel systems — and ship faster with AI-augmented engineering (RAG, vector search, agentic coding) as a force multiplier.**
+**Senior Laravel / PHP engineer with 10+ years building production SaaS platforms, e-commerce systems, and REST APIs for international clients — now shipping faster with AI-augmented engineering (RAG, vector search, and agentic coding).**
 
-10+ years building production SaaS platforms, e-commerce systems, REST APIs, and business automation for international clients.
+🟢 **Open to Senior Laravel · Backend · AI-Augmented Engineering roles** — Remote worldwide · Open to relocation with visa sponsorship
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rubyat.info-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rubyat.info)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rubyat)
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 What I Do
+## 🧠 What I Do
 
 I'm a senior Laravel/PHP developer who takes ownership from requirements to production. I specialize in:
 
@@ -30,6 +30,8 @@ My approach: break down complex problems, create a plan, take action, and iterat
 ---
 
 ## 🛠️ Tech Stack
+
+Day-to-day I build with **Laravel, PHP, Vue.js, MySQL/PostgreSQL**, RESTful APIs, and an AI-augmented workflow.
 
 **Backend**
 
@@ -77,33 +79,33 @@ My approach: break down complex problems, create a plan, take action, and iterat
 
 ---
 
-## 💡 Highlighted Work
+## 💡 Featured Projects & Impact
 
-- **FinditTrading & Compleetshop.cloud — B2B reseller SaaS.** Built a parent-child multi-shop platform with one-click synchronization of **~14,000 products** to dynamically created reseller shops, plus order forwarding back to the parent system.
-- **AugmentaInvoice — Laravel document-workflow platform.** Quotation → proforma → invoice → packing list → purchase order workflows, with customer/product management, Excel import/export, approval flows, and configurable PDF export.
-- **WorkSecure — booking & invoicing.** Extended an existing Laravel invoice platform with unit-rental booking logic and Google Maps visibility of rented units by location.
-- **ProfichemApps — browser-based design tool.** Replaced a manual Photoshop workflow with an in-browser drag-and-drop label/poster editor (crop, resize, layering, PDF/PNG export).
-- **Delivery track record.** Led and delivered **50+ web & app projects**; completed **14 Upwork projects at 5 stars** and earned **Top-Rated** status; led a **2-developer team** through requirements, build, QA, and production support.
+- **~14,000 products synced** across a parent–child **B2B reseller SaaS** (FinditTrading & Compleetshop.cloud) — dynamic reseller-shop creation with order forwarding back to the parent system.
+- **50+ projects delivered**, **14 Upwork projects at 5★ (Top-Rated)**, and a **2-developer team led** end-to-end through build, QA, and production support.
+- **End-to-end Laravel document platform** (AugmentaInvoice) — quotation → proforma → invoice → packing list → purchase-order workflows, with Excel import/export, approvals, and configurable PDF export.
+- **Booking + invoicing at scale** (WorkSecure) — extended a live Laravel platform with unit-rental logic and Google Maps visibility of rented units by location.
+- **Replaced a manual Photoshop workflow** (ProfichemApps) — an in-browser drag-and-drop label/poster editor with crop, resize, layering, and PDF/PNG export.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-theta-inky-bockeyhf5h.vercel.app/api?username=rubyat&show_icons=true&theme=tokyonight&hide_border=true" alt="Rubyat's GitHub stats" />
-<img height="170" src="https://github-readme-stats-theta-inky-bockeyhf5h.vercel.app/api/top-langs/?username=rubyat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" alt="Md Rubyat Islam's GitHub stats" src="https://github-readme-stats-theta-inky-bockeyhf5h.vercel.app/api?username=rubyat&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" alt="Md Rubyat Islam's most used languages" src="https://github-readme-stats-theta-inky-bockeyhf5h.vercel.app/api/top-langs/?username=rubyat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rubyat&theme=tokyonight&hide_border=true)
+![Md Rubyat Islam's GitHub contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=rubyat&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 📫 How to Reach Me
+## 🤝 Let's Connect
+
+I'm available for **senior Laravel, backend, and AI-augmented engineering roles** — remote worldwide, or relocation with visa sponsorship.
 
 - 🌐 Portfolio: **[rubyat.info](https://rubyat.info)**
 - 💼 LinkedIn: **[linkedin.com/in/rubyat](https://linkedin.com/in/rubyat)**
-- 📧 Email: **rubyat.ais@gmail.com**
-
-> Open to senior Laravel / backend / AI-augmented engineering roles — remote worldwide, and open to relocation with visa sponsorship.
+- 📧 Email: **[rubyat.ais@gmail.com](mailto:rubyat.ais@gmail.com)**
