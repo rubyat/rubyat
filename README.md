@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Md Rubyat Islam
+# Hi, I'm Md Rubyat Islam 👋
 
 ### AI-Augmented Laravel Engineer · Senior Backend & Full-Stack Developer
 
@@ -91,11 +91,7 @@ My approach: break down complex problems, create a plan, take action, and iterat
 
 <div align="center">
 
-![Rubyat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubyat&show_icons=true&theme=default&hide_border=true&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rubyat&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubyat&layout=compact&theme=default&hide_border=true&langs_count=8)
 
 </div>
 
