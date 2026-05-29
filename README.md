@@ -20,10 +20,10 @@
 
 I'm a senior Laravel/PHP developer who takes ownership from requirements to production. I specialize in:
 
+- **AI-augmented engineering** — RAG and vector search (pgvector/Pinecone), LLM API integration, and daily agentic coding workflows
 - **Backend architecture** — Laravel/PHP services, RESTful APIs, MVC, clean and maintainable business logic
 - **SaaS & business systems** — multi-tenant/reseller platforms, e-commerce, invoicing, booking, and order management
 - **Integrations** — third-party APIs, payment and order workflows, data synchronization, PDF/document generation
-- **AI-augmented engineering** — RAG and vector search (pgvector/Pinecone), LLM API integration, and daily agentic coding workflows
 
 My approach: break down complex problems, create a plan, take action, and iterate until it's done. **Give me a goal — I'll handle the rest.**
 
@@ -91,8 +91,8 @@ My approach: break down complex problems, create a plan, take action, and iterat
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-theta-inky-bockeyhf5h.vercel.app/api?username=rubyat&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Rubyat's GitHub stats" />
-<img height="170" src="https://github-readme-stats-theta-inky-bockeyhf5h.vercel.app/api/top-langs/?username=rubyat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-theta-inky-bockeyhf5h.vercel.app/api?username=rubyat&show_icons=true&theme=tokyonight&hide_border=true" alt="Rubyat's GitHub stats" />
+<img height="170" src="https://github-readme-stats-theta-inky-bockeyhf5h.vercel.app/api/top-langs/?username=rubyat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rubyat&theme=tokyonight&hide_border=true)
 
