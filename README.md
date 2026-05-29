@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Md Rubyat Islam 👋
+# Md Rubyat Islam
 
 ### AI-Augmented Laravel Engineer · Senior Backend & Full-Stack Developer
 
